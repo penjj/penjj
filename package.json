@@ -1,0 +1,23 @@
+{
+  "name": "penjj",
+  "version": "0.0.0",
+  "description": "👏",
+  "bugs": "https://github.com/penjj/penjj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/penjj/penjj"
+  },
+  "license": "MIT",
+  "author": "antfu <peng.j.1995@gmail.com>",
+  "main": "index.mjs",
+  "bin": {
+    "penjj": "index.mjs"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.0.0"
+  },
+  "packageManager": "pnpm@9.9.0"
+}
