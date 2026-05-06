@@ -17,7 +17,7 @@
     "index.js"
   ],
   "dependencies": {
-    "open": "^8.0.0"
+    "open": "^8.4.2"
   },
   "packageManager": "pnpm@9.9.0"
 }

@@ -9,12 +9,8 @@ importers:
   .:
     dependencies:
       open:
-        specifier: ^8.0.0
+        specifier: ^8.4.2
         version: 8.4.2
-    devDependencies:
-      penjj:
-        specifier: workspace:*
-        version: 'link:'
 
 packages:
 
